@@ -1,0 +1,7 @@
+.wp-block-custom-repeater-block-repeater {
+    text-align: center;
+}
+
+.wp-block-custom-repeater-block-repeater .rows {
+    display: flex;
+}
